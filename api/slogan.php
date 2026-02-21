@@ -1,0 +1,1 @@
+{"id":6370,"uuid":"2aefce17-d60f-4faf-81c8-1150229973af","hitokoto":"Nếu bạn cảm thấy bóng tối bao trùm, hãy trở thành ánh sáng trong bóng tối đó.","type":"g","from":"Lạc Tương","from_who":"Lạc Tương","creator":"Tôi hoàn toàn không béo","creator_uid":6705,"reviewer":1,"commit_from":"web","created_at":"1594731520","length":21}
