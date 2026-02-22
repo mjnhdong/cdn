@@ -2,5 +2,10 @@
 -----------------------------------------------------------------------------------------------
 ### Full Link
 ```sh
-https://cdn.jsdelivr.net/gh/mjnhdong/moe@main/logomoeblog.png
+https://cdn.jsdelivr.net/gh/mjnhdong/cdn@main/logomoeblog.png
 ```
+
+```sh
+https://cdn.jsdelivr.net/gh/mjnhdong/cdn@main/
+```
+
